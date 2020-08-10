@@ -1,2 +1,2 @@
-# Basic-tensor
-here the basic operation of tensorflow is explain 
+# Tensor
+only tensorflow  other are not allowed 
